@@ -8,6 +8,11 @@ namespace Project1
         {
             var texto = "testando o break point";
             Console.WriteLine($"{texto}");
+            Teste teste = new Teste();
+            teste.MetodoTeste();
+
+            var message = teste.TestandoReturn();
+            Console.WriteLine($"{message}");
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj": {}
+    "/Users/mariaadelia/Desktop/Programação/BaltaIODotNet/Modulo1/Code/Project1/Project1.csproj": {}
   },
   "projects": {
-    "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj": {
+    "/Users/mariaadelia/Desktop/Programação/BaltaIODotNet/Modulo1/Code/Project1/Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj",
+        "projectUniqueName": "/Users/mariaadelia/Desktop/Programação/BaltaIODotNet/Modulo1/Code/Project1/Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj",
+        "projectPath": "/Users/mariaadelia/Desktop/Programação/BaltaIODotNet/Modulo1/Code/Project1/Project1.csproj",
         "packagesPath": "/Users/mariaadelia/.nuget/packages/",
-        "outputPath": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/obj/",
+        "outputPath": "/Users/mariaadelia/Desktop/Programação/BaltaIODotNet/Modulo1/Code/Project1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mariaadelia/.nuget/NuGet/NuGet.Config"
+          "/Users/mariaadelia/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }
