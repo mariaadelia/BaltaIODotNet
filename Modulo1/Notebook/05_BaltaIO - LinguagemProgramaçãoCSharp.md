@@ -87,3 +87,53 @@
       }
   }
   ```
+
+
+
+- *Variáveis*
+  
+  - Utilizamos para **armazenar informações** e seus valores **variam**
+  
+  - Sempre que instanciamos(*instanciar = criar*) uma variável estamos/precisamos inicializar elas
+  
+  - A ordem das variáveis em C# é: tipoDaVariavel nomeDaVariavel = valorDaVariavel;  , sendo esse valor algo opcional (quando não utilizamos o **var**)
+    
+    - ```csharp
+      //tipo nomeVar = "valor inicial";
+      string textoInicial = "Texto que quiser";
+      string nome;
+      ```
+  
+  - As variáveis tem **tipo** (string, int, etc.), mas podemos utilizar o tipo **var** 
+    
+    - Sempre que criarmos uma variável com *var*, ela irá assumir o tipo do primeiro valor que você informar, exemplo:
+      
+      - ```csharp
+        var textoEntrada = "Texto";
+        
+        //A textoEntrada será do tipo string pois inicializei ela com uma string
+        ```
+  
+  - Os nomes das variáveis devem ser **coesos, específicos, devem começar com letra minúscula e utilizar camel case**, *não devem começar com números, nem devem ter caracteres especiais nem espaços*
+
+- *Constantes*
+  
+  - Armazena informações (assim como a variável), porém seu valor é fixo
+  
+  - As constantes não podem ser alteradas. São recomendadas para usos frequentes
+  
+  - Não podemos usar o tipo **var** em constantes e uma constante é definida pela palavra **const** antes do tipo da constante
+  
+  - A ordem das constantes em C# é: **const** tipoDaConstante nomeDaConstante = valorDaConstante;  no caso das constantes, é necessário atribuir seus valores
+  
+  - O nome da constante deve ser coesos, específicos, em LETRAS_MAIUSCULAS (separados por _ ), não devem começar com números
+  
+  - ```csharp
+    //const tipoConst VALOR_CONST = ValorDaConstante;
+    
+    const string TEXTO_ENTRADA = "Texto constante";
+    ```
+  
+  - d
+
+- d

@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="6" Column="6" />
-      <File FileName="Teste.cs" Line="2" Column="35" />
-      <File FileName="RepeticaoNomeClasse/Program.cs" Line="4" Column="91" />
+      <File FileName="Program.cs" Line="15" Column="45" />
+      <File FileName="Teste.cs" />
+      <File FileName="RepeticaoNomeClasse/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
