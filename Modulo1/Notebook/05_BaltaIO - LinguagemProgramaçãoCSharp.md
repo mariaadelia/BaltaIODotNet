@@ -168,11 +168,11 @@
   
   - *built in types* é um outro nome para tipos primitivos
   
-  - Tipos não o primitivos (complexos) são o conjunto de tipos primitivos
+  - Tipos não primitivos (complexos) são o conjunto de tipos primitivos
   
   - São chamados de *Tipos de valor*
   
-  - São organizados em?
+  - São organizados em:
     
     - Tipos simples (Simple Types)
     
@@ -320,5 +320,19 @@
       objetc nome = "ajdfadfad" //O tipo será object e não string
       nome = 5; //Aqui coloquei um tipo inteiro, mas como é object, não dá problema
       ```
+  
+  - **Null**
     
-    - d
+    - Vazio
+    
+    - Todo tipo, primitivou ou complexo pode receber o valor null
+    
+    - O tipo deve ser marcado como Nullable Type
+    
+    - Podemos atribuir *null* a um objeto, porém, é necessário marca isso através do **?** na frente do tipo
+    
+    - ```csharp
+      int? idade = null;
+      ```
+  
+  - 
