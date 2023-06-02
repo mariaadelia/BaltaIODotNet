@@ -52,10 +52,4 @@
   !condA  //NOT - Negando uma condição
   ```
 
-- dg
 
-
-
-## d
-
-fff
