@@ -31,7 +31,3 @@
                     //O que o método irá fazer
                 }
   - A restrição do parametro opcional é que ele precisa vir por último, caso contrário, dá erro
-- d
-
-
-ç
