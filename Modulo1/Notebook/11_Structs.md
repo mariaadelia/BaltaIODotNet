@@ -2,6 +2,7 @@
 
 -  É um *value type* que armazena outros tipos de dados
 -  Composto de propriedades e métodos
+-  Não pode estar dentro de uma classe (pois ele é uma classe por si só)
 -  Nome da classe sempre no maiúsculo e é preciso instanciar (**new**) ele quando chamar 
 -  ```csharp
         struct NomeClasse
@@ -38,6 +39,6 @@
                 
             }
    -  Se precisarmos iniciar algum valor, esse é o local correto para isso
--  d
-
-ç
+  
+- *Struct* tem obrigatoriamente que ter construtor 
+-  *Propriedade* sempre em **maiúsculo**, *atributo* sempre em **minúsculo**
