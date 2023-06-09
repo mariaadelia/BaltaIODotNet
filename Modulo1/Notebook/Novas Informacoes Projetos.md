@@ -1,9 +1,4 @@
-# Primeiro Projeto - Calculadora
-
--  **O que é o projeto?**
-   -  Fazer uma calculadora capaz de fazer: somas, divisão, multiplicação e subtração
-   -  Que o usuário possa digitar os valores que ele deseja calcular
--  s
+# Novas informações dos exercícios
 
 - Para que o usuário possa digitar algo na tela, usamos:
   ```csharp
@@ -26,5 +21,6 @@
         Console.ReadKey();
 
 
-SEGUINTE:
-    - Fazer o projeto de maneira independente. Terminei, aí sim eu assisto a aula e vejo o que foi feito, como poderia melhorar o meu projeto baseado nas aulas, etc.
+
+
+ç
